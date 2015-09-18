@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 43
 
-MEMBER 1 NAME
+MEMBER 1: Alex Russell
+
+	19, Female, Studying ID & Mech Eng
+
+	Role in Project : Team Leader?
+	
+	Doesn’t matter as I have to study Mech!
 
 MEMBER 2 NAME
 
