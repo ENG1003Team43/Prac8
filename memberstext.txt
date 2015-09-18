@@ -1,16 +1,9 @@
 LIST OF MEMBERS FOR TEAM 43
 
-<<<<<<< HEAD
-MEMBER 1: Alex Russell
-
-	19, Female, Studying ID & Mech Eng
-
-	Role in Project : Team Leader?
-	
-	Doesn’t matter as I have to study Mech!
-=======
 MEMBER 1 Alex Russell ID: 26896877
->>>>>>> master
+	19, Female, Studying ID & Mech Eng
+	Role in Project : Team Leader?
+	Doesn’t matter as I have to study Mech!
 
 MEMBER 2 Aman Singh Bhatti ID: 26937638
       Role in project: Programmar
@@ -23,3 +16,4 @@ MEMBER 3 Kostantinos Takos ID: 26908514
 MEMBER 4 Jackie(Zhijie shen) ID:25747673
       Role in project:assignment uploader, programmer
       Preferred branch of engineering: Aerospace
+	
