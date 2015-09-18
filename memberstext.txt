@@ -3,6 +3,8 @@ LIST OF MEMBERS FOR TEAM 43
 MEMBER 1 Alex Russell ID: 26896877
 
 MEMBER 2 Aman Singh Bhatti ID: 26937638
+         Role in project: Programmar
+         Preffered branch of engineering: Mechanical 
 
 MEMBER 3 Kostantinos Takos ID: 26908514
 
