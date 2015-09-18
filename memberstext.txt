@@ -6,8 +6,12 @@ MEMBER 2 Aman Singh Bhatti ID: 26937638
 
 MEMBER 3 Kostantinos Takos ID: 26908514
 
+Role in project: Programmar, Report writer
+
+Preffered branch of engineering: Electrical
+
 MEMBER 4 Jackie(Zhijie shen) ID:25747673
 
  Role in project:assignment uploader, programmer
  
-Preferred branch of engineering: Aerospac
+Preferred branch of engineering: Aerospace
